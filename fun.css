@@ -6,7 +6,7 @@ body {
 
 .container {
     display: flex;
-    border: 1rem solid coral;
+    border: .3rem solid coral;
 
 }
 
