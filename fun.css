@@ -4,6 +4,10 @@ body {
     font-style: sans-serif;
 }
 
+article {
+    color: cornflowerblue;
+}
+
 li {
     list-style-type: none;
     margin-left: -1rem;
