@@ -4,6 +4,10 @@ body {
     font-style: arial;
 }
 
+p {
+    padding: .1rem;
+}
+
 .container {
     display: flex;
     border: .3rem solid coral;
