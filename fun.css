@@ -4,11 +4,9 @@ body {
     font-style: arial;
 }
 
-article {
-    color: cornflowerblue;
+.container {
+    display: flex;
+    border: 1rem solid coral;
+
 }
 
-li {
-    list-style-type: none;
-    margin-left: -1rem;
-}
