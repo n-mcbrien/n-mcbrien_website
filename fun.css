@@ -5,13 +5,27 @@ body {
 }
 
 p {
-    margin: .1rem;
     padding: .1rem;
 }
 
 .container {
     display: flex;
     border: .3rem solid coral;
+    height: 10rem;
+    width: 5rem;
 
+}
+
+.child {
+    display: inline-flex;
+    /*
+    when display is
+    only set child prop
+    they move toward
+    upper left corner
+    */  
+    justify-content: flex-start;  
+    width: 2.5rem;
+    height: auto;
 }
 
