@@ -1,5 +1,6 @@
-# practice_test
-* Still figuring out what to put here
-* I'm trying to build a basic website
-* Also 'cause I'm bored right now
-Yeah
+My goals right now are to:
+* understand how to use pages
+more specifically:
+* how I can integrate an actual HTML file into pages
+* how I can NOT use Jekyll when creating a website with pages
+* customize themes in pages
